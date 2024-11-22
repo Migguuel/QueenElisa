@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: 'mongodb+srv://Migguuel:Miguel24689@cluster0.hjako.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', 
+  MONGODB_URL: 'mongodb://ufcngvivxrpkob45rmb0:sCyTB75IotGZTepszZR@bvm3mzejjuoe1qxjrvm1-mongodb.services.clever-cloud.com:2843/bvm3mzejjuoe1qxjrvm1', 
   PREFIX: ',&.',
   LANGUAGE: 'EN',
   PORT: 3000,
