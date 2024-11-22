@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QQftGUsRVQ21WYx1iWFp0aBhkYyJ2RxRneNFnY6NFTjVnU2cTc18VW4MTajIWQUdlRNF1cpwd=024581349812',
+  SESSION_ID: 'QUEENELISA;;;==wakFWLXlnM6h3ThdXef90ckV3YYVFZK1SW1sEdSRmeOxmTSRlQ0VDTallbjIEcKhUQwIEcpwd=024581349812',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: 'mongodb+srv://Migguuel:Miguel24689@cluster0.hjako.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', 
+  MONGODB_URL: 'mongodb://ufcngvivxrpkob45rmb0:sCyTB75IotGZTepszZR@bvm3mzejjuoe1qxjrvm1-mongodb.services.clever-cloud.com:2843/bvm3mzejjuoe1qxjrvm1', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
@@ -31,8 +31,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   WORK_MODE: 'group',
   TIME_ZONE: 'Africa/Tripoli',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  STICKER_AUTHOR: 'ѕнισ-ѕαη 🎭',
+  STICKER_PACK: 'Shinomiya',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '🐦‍🔥',
